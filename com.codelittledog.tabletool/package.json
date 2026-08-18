@@ -1,0 +1,20 @@
+{
+    "name": "com.codelittledog.tabletool",
+    "version": "1.0.0",
+    "displayName": "Table Tool",
+    "description": "Excel/CSV 表格读取写入工具：模板表生成类 + 泛型 TableReader<T> + O(1) 查找 + 数据格式校验。支持 Windows/Android/iOS，WebGL 用 CSV。",
+    "unity": "2021.3",
+    "keywords": ["table", "excel", "xlsx", "csv", "config", "excel-reader"],
+    "author": {
+        "name": "CodeLittleDog",
+        "url": "https://github.com/codelittledog"
+    },
+    "dependencies": {},
+    "samples": [
+        {
+            "displayName": "Table Demo",
+            "description": "示例：CSV 加载、TableReader<T> 泛型查找、校验。",
+            "path": "Samples~/TableDemo"
+        }
+    ]
+}

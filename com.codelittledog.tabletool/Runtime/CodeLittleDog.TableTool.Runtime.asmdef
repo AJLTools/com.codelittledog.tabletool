@@ -1,0 +1,11 @@
+{
+    "name": "CodeLittleDog.TableTool.Runtime",
+    "rootNamespace": "CodeLittleDog.TableTool",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
