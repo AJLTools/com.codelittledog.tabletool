@@ -1,0 +1,15 @@
+{
+    "name": "CodeLittleDog.TableTool.Editor",
+    "rootNamespace": "CodeLittleDog.TableTool.Editor",
+    "references": [
+        "CodeLittleDog.TableTool.Runtime"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
