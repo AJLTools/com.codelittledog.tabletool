@@ -1,5 +1,5 @@
 {
-    "name": "com.AJLTools,Tools/com.codelittledog.tabletool",
+    "name": "com.AJLTools.Tools/com.codelittledog.tabletool",
     "version": "1.0.0",
     "displayName": "Table Tool",
     "description": "Excel/CSV 表格读取写入工具：模板表生成类 + 泛型 TableReader<T> + O(1) 查找 + 数据格式校验。支持 Windows/Android/iOS，WebGL 用 CSV。",
